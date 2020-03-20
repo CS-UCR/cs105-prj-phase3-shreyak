@@ -44,7 +44,7 @@
 - Yes, an accurate rating can be predicted using this method. This was validated via the K-NN algorithm. My algorithm underpredcits. To improve the accuracy we could explore adding features or adjusting the K-value.
 
 ## Summary of Analyses:
-- Written in notbook under analyses sections. An explanation of process is also included in notebook.
+- Written in notebook under analyses sections. An explanation of process is also included in notebook.
 
 
  
