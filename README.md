@@ -37,7 +37,7 @@
  
 ## Questions Explored:
 - Does a high number of votes, a high revenue and a high metascore correlate to a high rating?
-- Can an accurate rating for a specific be predicted by taking the average rating of the 10 movies most similar to it with regards to popularity and genres?
+- Can an accurate rating for a specific movie be predicted by taking the average rating of the 10 movies most similar to it with regards to popularity and genres?
 
 ## Answers to Questions:
 - A high number of votes and a high metascore do correlate to a high rating, revenue not so much. This was validated via linear regression and pearson coefficients.
