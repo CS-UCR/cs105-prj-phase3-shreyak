@@ -6,7 +6,7 @@
   python3 -m pip install --user lxml <br/>
   python3 -m pip install --user bs4 <br/>
  
- ## Datasets Used
+ ## Datasets Used:
  
 - Academy Awards nominees and winners
 - IMDB Top Rated 250 movies 
@@ -25,14 +25,14 @@
 - Academy Awards nominees and winners
 - IMDB Top Rated 250 movies 
   
- ## EDA Process
+ ## EDA Process:
  - The analysis of the data is included after each graph/chart under the "Analysis" section. There are 3 scatterplots, 2 bar charts, 1 stacked bar chart, 1 histogram and 1 plot line.
  
  # Regarding Phase 3 (shreyak_proj_phase3.ipynb)
  ## Things to Install:
  - No additional installations necessary. Simply run all cells in Jupyter Notebook.
  
- ## Datasets Used
+ ## Datasets Used:
  - IMDB 1000 movies from 2006 to 2016
  
 ## Questions Explored:
