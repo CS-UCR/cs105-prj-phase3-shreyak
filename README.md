@@ -37,9 +37,14 @@
  
 ## Questions Explored:
 - Does a high number of votes, a high revenue and a high metascore correlate to a high rating?
-- Can an accurate rating for a specific be predicted by taking the average rating of the 10 movies most similar to it with regards to popularity and genres? (K-NN algorithm)
+- Can an accurate rating for a specific be predicted by taking the average rating of the 10 movies most similar to it with regards to popularity and genres?
+
+## Answers to Questions:
+- A high number of votes and a high metascore do correlate to a high rating, revenue not so much. This was validated via linear regression and pearson coefficients.
+- Yes, an accurate rating can be predicted using this method. This was validated via the K-NN algorithm. My algorithm underpredcits. To improve the accuracy we could explore adding features or adjusting the K-value.
 
 ## Summary of Analyses:
 - Written in notbook under analyses sections. An explanation of process is also included in notebook.
+
 
  
